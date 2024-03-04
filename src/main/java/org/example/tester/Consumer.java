@@ -23,7 +23,6 @@ public class Consumer {
             if(dequeValue != null){
                 System.out.println(dequeValue);
             }
-            Thread.sleep(1000);
         }
     }
 }
